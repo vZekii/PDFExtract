@@ -96,3 +96,4 @@ with pdfplumber.open("./fp.pdf") as pdf:
                 total_wintimes.append(win_times)
                 total_winrates.append(win_rate)
                 # 'Overall 1 Starts 0w 0p (0%w 0%p)
+                # hi
