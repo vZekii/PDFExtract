@@ -11,8 +11,10 @@ beautifulsoup4==4.11.1
 bleach==5.0.0
 brotlipy==0.7.0
 certifi==2021.10.8
-conda==4.10.3
+cryptography==42.0.5
+customtkinter==5.2.2
 cycler==0.11.0
+darkdetect==0.8.0
 debugpy==1.6.0
 decorator==5.1.1
 defusedxml==0.7.1
@@ -59,6 +61,8 @@ pandas==2.0.2
 pandocfilters==1.5.0
 parso==0.8.3
 pbr==5.8.1
+pdfminer.six==20221105
+pdfplumber==0.10.4
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==10.0.0
@@ -77,6 +81,7 @@ pyobjc-core==9.2
 pyobjc-framework-Cocoa==9.2
 pyobjc-framework-Quartz==9.2
 pyparsing==3.0.8
+pypdfium2==4.27.0
 pyperclip==1.8.2
 PyRect==0.2.0
 pyrsistent==0.18.1
@@ -95,7 +100,6 @@ qiskit-terra==0.20.0
 requests-ntlm==1.1.0
 retworkx==0.11.0
 rubicon-objc==0.4.6
-scipy==1.8.0
 Send2Trash==1.8.0
 soupsieve==2.3.2
 stack-data==0.2.0
